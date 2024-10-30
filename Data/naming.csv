@@ -1,0 +1,108 @@
+specimen,defaultname,newname,include
+3x1_4x1,Time  2 - default sample rate [s],Time1,TRUE
+3x1_4x1,Displacement_Back_Right [mm],disp-BR,TRUE
+3x1_4x1,Displacement_Front_Left [mm],disp_FL,TRUE
+3x1_4x1,HSFR-c,HSFR,TRUE
+3x1_4x1,Horizontal_Slip_Front_Right [mm],HSFR_old,FALSE
+3x1_4x1,VSFL-c,VSFL,TRUE
+3x1_4x1,Vertical_Slip_Front_Left [mm],VSFL_old,FALSE
+3x1_4x1,VSBL-c,VSBL,TRUE
+3x1_4x1,Vertical_Slip_Back_Left [mm],VSBL_old,FALSE
+3x1_4x1,VSFR-c,VSFR,TRUE
+3x1_4x1,Vertical_Slip_Front_Right [mm],VSFR_old,FALSE
+3x1_4x1,Horizontal_Slip_Front_Left [mm],HSFL,TRUE
+3x1_4x1,SS_F_1 [?m/m],SSF1,TRUE
+3x1_4x1,SS_F_2 [?m/m],SSF2,TRUE
+3x1_4x1,SS_W_1 [?m/m],SSW1,TRUE
+3x1_4x1,SS_W_2 [?m/m],SSW2,TRUE
+3x1_4x1,WS_1_1 [?m/m],WS11,TRUE
+3x1_4x1,WS_1_2 [?m/m],WS12,TRUE
+3x1_4x1,WS_2_1 [?m/m],WS21,TRUE
+3x1_4x1,WS_2_2 [?m/m],WS22,TRUE
+3x1_4x1,Time  3 - default sample rate [s],Time2,FALSE
+3x1_4x1,Displacement_Front_Right [mm],disp_FR,TRUE
+3x1_4x1,Displacement_Back_Left [mm],disp_BL,TRUE
+3x1_4x1,VSBR-c,VSBR,TRUE
+3x1_4x1,Vertical_Slip_Back_Right [mm],VSBR_old,FALSE
+3x1_4x1,HSBR-c,HSBR,TRUE
+3x1_4x1,Horizontal_Slip_Back_Right [mm],HSBR_old,FALSE
+3x1_4x1,Horizontal_Slip_Back_Left [mm],HSBL,TRUE
+3x1_4x1,HSSW-c,HSSW,TRUE
+3x1_4x1,Horizontal_Slip_Steel_Web [mm],HSSW_old,FALSE
+3x1_4x1,Time3 - default sample rate [s],Time3,FALSE
+3x1_4x1,Pressure_Supply [psi],PS,FALSE
+3x1_4x1,Pressure_Return [psi],PR,FALSE
+3x1_4x1,Load_Cell [kp],Load,TRUE
+3x1_4x1,Force_from_Pressure_Transducers [kip],Load_P,FALSE
+3x1_4x1,Average_Displacement [in],disp_avg,FALSE
+4x1_2x1,Time  2 - default sample rate [s],Time1,TRUE
+4x1_2x1,Displacement_Back_Right [mm],disp-BR,TRUE
+4x1_2x1,Displacement_Front_Left [mm],disp_FL,TRUE
+4x1_2x1,HSFR-c,HSFR,TRUE
+4x1_2x1,Horizontal_Slip_Front_Right [mm],HSFR_old,FALSE
+4x1_2x1,Vertical_Slip_Front_Left [mm],VSFL,TRUE
+4x1_2x1,VSBL-c,VSBL,TRUE
+4x1_2x1,Vertical_Slip_Back_Left [mm],VSBL_old,FALSE
+4x1_2x1,Vertical_Slip_Front_Right [mm],VSFR,TRUE
+4x1_2x1,Horizontal_Slip_Front_Left [mm],HSFL,TRUE
+4x1_2x1,SS_F_1 [?m/m],SSF1,TRUE
+4x1_2x1,SS_F_2 [?m/m],SSF2,TRUE
+4x1_2x1,SS_W_1 [?m/m],SSW1,TRUE
+4x1_2x1,SS_W_2 [?m/m],SSW2,TRUE
+4x1_2x1,WS_1_1 [?m/m],WS11,TRUE
+4x1_2x1,WS_1_2 [?m/m],WS12,TRUE
+4x1_2x1,WS_2_1 [?m/m],WS21,TRUE
+4x1_2x1,WS_2_2 [?m/m],WS22,TRUE
+4x1_2x1,Time  3 - default sample rate [s],Time2,FALSE
+4x1_2x1,Displacement_Front_Right [mm],disp_FR,TRUE
+4x1_2x1,Displacement_Back_Left [mm],disp_BL,TRUE
+4x1_2x1,Vertical_Slip_Back_Right [mm],VSBR,TRUE
+4x1_2x1,HSBR-c,HSBR,TRUE
+4x1_2x1,Horizontal_Slip_Back_Right [mm],HSBR_old,FALSE
+4x1_2x1,Horizontal_Slip_Back_Left [mm],HSBL,TRUE
+4x1_2x1,HSSW-c,HSSW,TRUE
+4x1_2x1,Horizontal_Slip_Steel_Web [mm],HSSW_old,FALSE
+4x1_2x1,Time3 - default sample rate [s],Time3,FALSE
+4x1_2x1,Pressure_Supply [psi],PS,FALSE
+4x1_2x1,Pressure_Return [psi],PR,FALSE
+4x1_2x1,Load_Cell [kp],Load,TRUE
+4x1_2x1,Force_from_Pressure_Transducers [kip],Load_P,FALSE
+4x1_2x1,Average_Displacement [in],disp_avg,FALSE
+4x1_4x1,Time  2 - default sample rate,Time1,TRUE
+4x1_4x1,Displacement_Back_Right CH=4,disp-BR,TRUE
+4x1_4x1,Displacement_Front_Left CH=5,disp_FL,TRUE
+4x1_4x1,HSFR-c,HSFR,TRUE
+4x1_4x1,Horizontal_Slip_Front_Right CH=6,HSFR_old,FALSE
+4x1_4x1,VSFL-c,VSFL,TRUE
+4x1_4x1,Vertical_Slip_Front_Left CH=7,VSFL_old,FALSE
+4x1_4x1,VSBL-c,VSBL,TRUE
+4x1_4x1,Vertical_Slip_Back_Left CH=8,VSBL_old,FALSE
+4x1_4x1,VSFR-c,VSFR,TRUE
+4x1_4x1,Vertical_Slip_Front_Right CH=9,VSFR_old,FALSE
+4x1_4x1,HSFL-c,HSFL,TRUE
+4x1_4x1,Horizontal_Slip_Front_Left CH=11,HSFL_old,FALSE
+4x1_4x1,SS_F_1 CH=12,SSF1,TRUE
+4x1_4x1,SS_F_2 CH=13,SSF2,TRUE
+4x1_4x1,SS_W_1 CH=14,SSW1,TRUE
+4x1_4x1,SS_W_2 CH=15,SSW2,TRUE
+4x1_4x1,WS_1_1 CH=16,WS11,TRUE
+4x1_4x1,WS_1_2 CH=17,WS12,TRUE
+4x1_4x1,WS_2_1 CH=18,WS21,TRUE
+4x1_4x1,WS_2_2 CH=19,WS22,TRUE
+4x1_4x1,Time  3 - default sample rate,Time2,FALSE
+4x1_4x1,Displacement_Front_Right CH=23,disp_FR,TRUE
+4x1_4x1,Displacement_Back_Left CH=24,disp_BL,TRUE
+4x1_4x1,VSBR-c,VSBR,TRUE
+4x1_4x1,Vertical_Slip_Back_Right CH=25,VSBR_old,FALSE
+4x1_4x1,HSBR-c,HSBR,TRUE
+4x1_4x1,Horizontal_Slip_Back_Right CH=26,HSBR_old,FALSE
+4x1_4x1,HSBL-c,HSBL,TRUE
+4x1_4x1,Horizontal_Slip_Back_Left CH=27,HSBL_old,FALSE
+4x1_4x1,HSSW-c,HSSW,TRUE
+4x1_4x1,Horizontal_Slip_Steel_Web CH=28,HSSW_old,FALSE
+4x1_4x1,Time3 - default sample rate,Time3,FALSE
+4x1_4x1,Pressure_Supply CH=42,PS,FALSE
+4x1_4x1,Pressure_Return CH=43,PR,FALSE
+4x1_4x1,Load_Cell CH=44,Load,TRUE
+4x1_4x1,Force_from_Pressure_Transducers,Load_P,FALSE
+4x1_4x1,Average_Displacement,disp_avg,FALSE
